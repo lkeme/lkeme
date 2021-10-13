@@ -15,6 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+---
+
+## 📈 Stats
+<img  src="https://github-readme-stats.vercel.app/api?username=lkeme&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=lkeme&theme=dark" width="48%" >
+
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=lkeme&theme=alduin)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 ---
 
  <p align="center"> 
