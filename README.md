@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ---
 
 <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/lkeme/count.svg" />
+   <img alingn="center" src="https://counter.kuber.studio/lkeme/glassmorphism/count.svg" />
  </p>
  
 
