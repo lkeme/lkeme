@@ -13,4 +13,4 @@
 
 ## 🏆 GitHub Trophies
 
-![Lkeme](https://github-profile-trophy-tawny.vercel.app/?username=lkeme&theme=flat&no-bg=true)
+![Lkeme](https://github-profile-trophy-tawny.vercel.app/?username=lkeme&theme=flat&no-bg=true&margin-w=15)
