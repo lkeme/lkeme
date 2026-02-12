@@ -9,10 +9,10 @@
 
 ## 📈 Stats
 <img  src="https://github-readme-stats.vercel.app/api?username=lkeme&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=lkeme&theme=dark" width="48%" >
+<img  src="https://streak-stats.demolab.com/?user=lkeme&theme=dark" width="48%" >
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=lkeme&theme=alduin)](https://github.com/ryo-ma/github-profile-trophy)
+[![Lkeme](https://github-profile-trophy-tawny.vercel.app/?username=lkeme&theme=alduin)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ---
