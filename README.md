@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <p align="center"> 
    <img alingn="center" src="https://counter.kuber.studio/lkeme/cat/count.svg" />
  </p>
@@ -26,7 +24,3 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lkeme&layout=compact&theme=dracula" />
 </a>
-
----
-
-### Happy hacking! 💚
