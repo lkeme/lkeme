@@ -1,11 +1,10 @@
+<p align="center"> 
+   <img align="center" src="https://counter.kuber.studio/lkeme/cat/count.svg" />
+</p>
+
 ## 📈 Stats
 
-<p align="center"> 
-   <img src="https://streak-stats.demolab.com/?user=lkeme&theme=cobalt" width="48%" align="right" />
-   <img src="https://counter.kuber.studio/lkeme/cat/count.svg" />
- </p>
-
----
+![Lkeme](https://streak-stats.demolab.com/?user=lkeme&theme=cobalt)
 
 ## 📊 Activity Graph
 
