@@ -24,6 +24,9 @@ Here are some ideas to get you started:
 
 ---
 
+## 📊 Activity Graph
+![Lkeme's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lkeme)
+
 ## 📈 Stats
 <img  src="https://github-readme-stats.vercel.app/api?username=lkeme&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=lkeme&theme=dark" width="48%" >
