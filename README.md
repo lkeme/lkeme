@@ -1,26 +1,20 @@
+## 📈 Stats
+
 <p align="center"> 
-   <img alingn="center" src="https://counter.kuber.studio/lkeme/cat/count.svg" />
+   <img src="https://streak-stats.demolab.com/?user=lkeme&theme=cobalt" width="48%" align="right" />
+   <img src="https://counter.kuber.studio/lkeme/cat/count.svg" />
  </p>
 
 ---
 
 ## 📊 Activity Graph
+
 ![Lkeme's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lkeme)
-
-## 📈 Stats
-<img  src="https://github-readme-stats.vercel.app/api?username=lkeme&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
-<img  src="https://streak-stats.demolab.com/?user=lkeme&theme=dark" width="48%" >
-
-## 🏆 GitHub Trophies
-[![Lkeme](https://github-profile-trophy-tawny.vercel.app/?username=lkeme&theme=alduin)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 ---
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=lkeme&count_private=true&show_icons=true&theme=dracula" />
-</a>
+## 🏆 GitHub Trophies
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lkeme&layout=compact&theme=dracula" />
-</a>
+![Lkeme](https://github-profile-trophy-tawny.vercel.app/?username=lkeme&theme=alduin)
+
+---
